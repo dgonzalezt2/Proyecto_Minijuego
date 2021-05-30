@@ -1,1 +1,2 @@
 # Proyecto_Minijuego
+La idea es crear un juego, que al darle en la opción iniciar juego, cree la cantidad aleatoria de bichos, y luego muestre el tablero anterior. Y finalmente, se ejecutará un ciclo infinito, en el cual el usuario tendrá la opción de en cada ciclo disparar una bala (eligiendo la posición sobre la cual disparar). Cada bala quita 5 de sangre. Por ejemplo: si dispara en la 0.0 en BichoAlien quedará con 15 de sangre
